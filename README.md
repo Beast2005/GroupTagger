@@ -1,28 +1,37 @@
-# SuperFast 🔥 DevilTagAllBot
+<h2 align="centre"><i><b>🎀TECHNO MINDZ TAGGER🎀</i></b></h2>
 
 
-<p align="center">
-    𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗔𝗡𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦🎑
 
-<p align="center"><a href="https://t.me/JaiHindChatting"><img align="center" src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
+<p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/b417bdd01331179d5787c.jpg" width="300"></a></p>
+
+## Introduction
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Techno+Mindz!;A+Tagger+BOT+For+Groups!;Specially+Created+by+RAVINANDAN!;A+powerful+Tagger+Bot!;Don't+Forget+To+Subcribe;Techno+Mindz+in+YouTube;)
 </p>
-<p align="center"><a href="https://t.me/RYMOFFICIAL"><img align="center" src="https://img.shields.io/badge/Join-Official%20Channel-blue.svg?style=for-the-badge&logo=Telegram">
-</p>
-<p align="center"><a href="https://t.me/JaiHindChatting"><img src="https://telegra.ph/file/06bab8d2aca8660c3b487.jpg" width="300"></a></p>
-
-
-<p align="center">
-    ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐎𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 𝐕𝐢𝐚 𝐓𝐠 𝐁𝐨𝐭 🚀
-
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=cmFrZXNoeXQvRGV2aWxUYWdBbGxCb3QgSGFja2Vy"><img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
-
-
-
+</h1>
 
 ## IMP VARS
 
-```
-API_ID :- GET IT FROM MY.TELEGRAM.ORG 
-API_HASH :- GET IT FROM MY.TELEGRAM.ORG
-TOKEN :- GET IT FROM @BOTFATHER
-```
+- API_ID :- GET IT FROM MY.TELEGRAM.ORG 
+- API_HASH :- GET IT FROM MY.TELEGRAM.ORG
+- TOKEN :- GET IT FROM [@BOTFATHER](https://t.me/botfather)
+    
+## DEPLOY
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/GroupTagger">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+    
+### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
+
+<a href="https://t.me/tmmainchannel"><img src="https://img.shields.io/badge/Join-Main%20Channel-green.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/technomindzchat"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">
+
+## MODAL ROBOT
+ * [<i><b>@TMElsaRobot</i></b>](https://t.me/tmelsarobot)
+
