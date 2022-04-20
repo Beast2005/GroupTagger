@@ -33,5 +33,5 @@
 <a href="https://t.me/technomindzchat"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">
 
 ## MODAL ROBOT
- * [<i><b>@TMElsaRobot</i></b>](https://t.me/tmelsarobot)
+ * [<i><b>@TMTaggerBot</i></b>](https://t.me/tmtaggerbot)
 
